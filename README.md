@@ -1,6 +1,6 @@
 # HTML-CSS-c-b-n
 # BÀI 1: CÁC THẺ HTML THÔNG DỤNG
-# "<html>" : Thẻ mở đầu của trang HTML
+# <html> : Thẻ mở đầu của trang HTML
 # <head></head> : Thẻ chứa các thẻ trong phần đầu của trang HTML
 # <title></title> : Tiêu đề trang web
 # <meta> : Mô tả tổng quát về nội dung trang web
