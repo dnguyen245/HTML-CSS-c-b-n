@@ -1,4 +1,4 @@
-# HTML-CSS-c-b-n
+# HTML-CSS-Cơ Bản
 # BÀI 1: CÁC THẺ HTML THÔNG DỤNG
 # <html> : Thẻ mở đầu của trang HTML
 # <head></head> : Thẻ chứa các thẻ trong phần đầu của trang HTML
